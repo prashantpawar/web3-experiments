@@ -17,5 +17,10 @@
     "webpack": "^1.14.0",
     "webpack-dev-server": "^1.16.2"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@cycle/dom": "^15.0.0-rc.1",
+    "@cycle/xstream-run": "^4.2.0",
+    "ramda": "^0.23.0",
+    "xstream": "^9.3.0"
+  }
 }
