@@ -12,15 +12,16 @@
   "devDependencies": {
     "babel-core": "^6.21.0",
     "babel-loader": "^6.2.10",
+    "babel-plugin-transform-object-assign": "^6.22.0",
     "babel-preset-latest": "^6.22.0",
     "babel-runtime": "^6.22.0",
     "webpack": "^1.14.0",
     "webpack-dev-server": "^1.16.2"
   },
   "dependencies": {
-    "@cycle/dom": "^15.0.0-rc.1",
+    "@cycle/dom": "^14.3.0",
     "@cycle/xstream-run": "^4.2.0",
     "ramda": "^0.23.0",
-    "xstream": "^9.3.0"
+    "xstream": "^10.0.0"
   }
 }
